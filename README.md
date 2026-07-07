@@ -74,24 +74,10 @@ I'm a Computer Science undergraduate and full-stack engineer who builds complete
 
 **Cloud, DevOps & Tooling**
 
-![Skills](https://skillicons.dev/icons?i=vercel,render,git,github,postman,vscode,nginx,linux&theme=dark)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
-</div>
-
-<br/>
-
----
-
-## ⟡ AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Generative AI Integration** | ⭐⭐⭐⭐☆ | Gemini AI & Gemini Vision integrated into production apps for recommendation engines |
-| **Prompt Engineering** | ⭐⭐⭐⭐☆ | Structured prompting for reliable, parseable AI outputs in real product flows |
-| **AI-Powered Product Design** | ⭐⭐⭐⭐☆ | Designing UX around AI features — pantry-to-recipe recommendation pipelines |
-| **API Security for AI Apps** | ⭐⭐⭐☆☆ | Arcjet-based rate limiting & abuse protection on AI-facing endpoints |
+![Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,nginx,linux&theme=dark)
 
 </div>
 
@@ -102,7 +88,7 @@ I'm a Computer Science undergraduate and full-stack engineer who builds complete
 ## ⟡ Featured Projects
 
 <details open>
-<summary><b>🍳 Cooksy — AI-Powered Recipe & Pantry Platform</b></summary>
+<summary><b>⟡ Cooksy — AI-Powered Recipe & Pantry Platform</b></summary>
 <br/>
 
 AI-powered recipe platform that transforms pantry ingredients into personalized meal recommendations using Gemini AI and Gemini Vision, with secure auth and a full recipe/dashboard management system.
@@ -121,7 +107,7 @@ Built with a focus on production reliability — combining Gemini Vision for ing
 </details>
 
 <details>
-<summary><b>🛒 NxtTrendz — E-Commerce Application (MERN)</b></summary>
+<summary><b>⟡ NxtTrendz — E-Commerce Application (MERN)</b></summary>
 <br/>
 
 A scalable e-commerce platform inspired by Amazon and Flipkart, replicating core shopping and account flows with secure, persistent user sessions.
@@ -140,7 +126,7 @@ Focused on dynamic routing and reusable component design, with JWT-secured API c
 </details>
 
 <details>
-<summary><b>✅ Student Task Manager (MERN Stack)</b></summary>
+<summary><b>⟡ Student Task Manager (MERN Stack)</b></summary>
 <br/>
 
 A full-stack task management application supporting creation, prioritization, and real-time status filtering of tasks.
@@ -212,6 +198,8 @@ Mentored students in full-stack development, led project teams, and drove delive
 
 ![Nxtwave](https://img.shields.io/badge/Nxtwave-Industry%20Ready%20Full--Stack%20Certification-6a0dad?style=for-the-badge&logo=googlescholar&logoColor=white)
 
+<a href="ADD_DRIVE_LINK_HERE"></a>
+
 </div>
 
 <br/>
@@ -234,12 +222,12 @@ Mentored students in full-stack development, led project teams, and drove delive
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-265&show_icons=true&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=a78bfa&icon_color=8a2be2&text_color=e0d4ff" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=Prathamesh-265&theme=radical&hide_border=true&background=1a0b2e&stroke=8a2be2&ring=a78bfa&fire=8a2be2&currStreakLabel=e0d4ff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Prathamesh-265&show_icons=true&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=a78bfa&icon_color=8a2be2&text_color=e0d4ff&cache_seconds=86400" width="48%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Prathamesh-265&theme=radical&hide_border=true&background=1a0b2e&stroke=8a2be2&ring=a78bfa&fire=8a2be2&currStreakLabel=e0d4ff" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-265&layout=compact&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=a78bfa&text_color=e0d4ff" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathamesh-265&layout=compact&theme=radical&hide_border=true&bg_color=1a0b2e&title_color=a78bfa&text_color=e0d4ff&cache_seconds=86400" width="48%"/>
 
 </div>
 
@@ -251,7 +239,7 @@ Mentored students in full-stack development, led project teams, and drove delive
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prathamesh-265&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Prathamesh-265&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10&cache-seconds=86400" width="100%"/>
 
 </div>
 
