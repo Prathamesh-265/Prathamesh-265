@@ -44,7 +44,7 @@ engineer:
   philosophy: "Ship fast, ship clean, ship things people actually use."
 ```
 
-I'm a Computer Science undergraduate and full-stack engineer who builds complete, production-ready web products — not just prototypes. My work spans the **entire stack**: React/Next.js frontends, Node.js/Express and PostgreSQL backends, AI integrations with Gemini, and self-managed VPS infrastructure running multiple live domains. I care deeply about clean architecture, performance, and shipping software that survives contact with real users.
+I'm a Computer Science graduate and full-stack engineer who builds complete, production-ready web products — not just prototypes. My work spans the **entire stack**: React/Next.js frontends, Node.js/Express and PostgreSQL backends, AI integrations with Gemini, and self-managed VPS infrastructure running multiple live domains. I care deeply about clean architecture, performance, and shipping software that survives contact with real users.
 
 <div align="center">
 
