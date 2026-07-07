@@ -206,17 +206,6 @@ Mentored students in full-stack development, led project teams, and drove delive
 
 ---
 
-## ⟡ Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-8a2be2?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Prathameshk18/)
-
-</div>
-
-<br/>
-
----
 
 ## ⟡ GitHub Analytics
 
@@ -235,17 +224,7 @@ Mentored students in full-stack development, led project teams, and drove delive
 
 ---
 
-## ⟡ GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Prathamesh-265&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10&cache-seconds=86400" width="100%"/>
-
-</div>
-
-<br/>
-
----
 
 ## ⟡ Contribution Activity
 
